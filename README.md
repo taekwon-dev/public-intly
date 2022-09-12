@@ -18,9 +18,9 @@
 
 |로그인|프로필 및 활동 로그 조회|게시물 작성|
 |:-:|:-:|:-:|
-|<img src=https://user-images.githubusercontent.com/70354365/189513884-72dd82ab-bfda-4f89-b034-8f7b0f4142f9.gif>|<img src=https://user-images.githubusercontent.com/70354365/189513888-efd809ba-a806-4705-afa8-273022dabe78.gif>|<img src=https://user-images.githubusercontent.com/70354365/189513887-484268ec-42b1-449d-ba8d-9fd5aae45bea.gif>|
+|<img src=https://user-images.githubusercontent.com/70354365/189709972-17cc7a62-7e41-40cc-862f-996170513ad1.gif>|<img src=https://user-images.githubusercontent.com/70354365/189709970-8f4fa27e-2a8f-4d76-9c7e-405d77cfc5c7.gif>|<img src=https://user-images.githubusercontent.com/70354365/189709963-36f1d6a2-e0a5-4dea-8f85-ff80ca56775d.gif>|
 |<b>게시물 검색</b>|<b>댓글 및 답글 작성</b>|<b>인터뷰 템플릿 작성 및 조회</b>|
-|<img src=https://user-images.githubusercontent.com/70354365/189513885-a1fee708-4fe7-4392-8148-9938cff65132.gif>|<img src=https://user-images.githubusercontent.com/70354365/189513883-e1d28b44-c822-47f4-b4fb-9414e025fe1f.gif>|<img src=https://user-images.githubusercontent.com/70354365/189513883-e1d28b44-c822-47f4-b4fb-9414e025fe1f.gif>|
+|<img src=https://user-images.githubusercontent.com/70354365/189709955-850c827c-0b46-4284-96bb-57784b50bfdb.gif>|<img src=https://user-images.githubusercontent.com/70354365/189709934-8fa20fee-17ab-46f0-b686-8c826764666a.gif>|<img src=https://user-images.githubusercontent.com/70354365/189709934-8fa20fee-17ab-46f0-b686-8c826764666a.gif>|
 
 <p align="center">
     <b>Int'ly</b>는 전세계 유학생 <b>을 위한 해외생활 소셜 플랫폼 서비스</b>입니다.<br><br>  
@@ -43,10 +43,12 @@
 
 ## Infrastructures
 
-![image](https://user-images.githubusercontent.com/70354365/189517873-87e72a10-c91a-44e9-80d7-bb126669310a.png)
+
+![image](https://user-images.githubusercontent.com/70354365/189530314-8240861c-f31b-4dbe-9e10-944610876a82.png)
 
 
-![image](https://user-images.githubusercontent.com/70354365/189517371-463bde10-f572-4d20-8224-b465e4f66b4d.png)
+![image](https://user-images.githubusercontent.com/70354365/189530262-1e8e9e29-2763-4960-87a2-5b60af130f20.png)
+
 
 
 <br/>
@@ -57,12 +59,12 @@
 
 |제이드|에이든|
 |:-:|:--:|
-|<img src="https://avatars.githubusercontent.com/u/72514247?v=4" alt="제이드" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/59464537?v=4" alt="에이든" width="100" height="100">|
+|<img src="https://avatars.githubusercontent.com/u/72514247?v=4" alt="Jade" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/59464537?v=4" alt="Aiden" width="100" height="100">|
 |[morethanmin](https://github.com/morethanmin)|[Mulgyeol](https://github.com/Mulgyeol)|
 
 ### Backend
 
 |윤|
 |:-:|
-|<img src="https://avatars.githubusercontent.com/u/70354365?v=4" alt="윤" width="100" height="100">|
+|<img src="https://avatars.githubusercontent.com/u/70354365?v=4" alt="Yun" width="100" height="100">|
 |[taekwon-dev](https://github.com/taekwon-dev)|
