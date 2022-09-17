@@ -71,17 +71,19 @@
 |<img src="https://avatars.githubusercontent.com/u/70354365?v=4" alt="Yun" width="100" height="100">|
 |[taekwon-dev](https://github.com/taekwon-dev)|
 
-했던거 정리
-하고 싶은거 추가
+### What I Did in this Project
 
+<details>
+<summary style="font-size: medium">[Spring MVC] Handler Interceptor with Java Annotation, Reflection, and Proxy Pattern</summary>
 
-Handler Interceptor - Proxy Pattern
-JPA Embedded Type
-Java Enum 
-Exception
-Acceptance Test
-Unit Test
-Spring Rest Docs
+☼ 게시물 상세 조회 (GET - /api/posts/{postId})      
+☼ 게시물 수정 (POST - /api/posts/{postId})     
+☼ 게시물 삭제 (DELETE - /api/posts/{postId})
 
-Post 
-Comment
+위 API 리스트와 같이 URL은 같지만 HTTP 메소드만 다른 경우, 핸들러 인터셉터에서의 인증 로직 분기 처리 과정의 문제와 해결 과정 (아래 링크 참고)
+
+- [Spring MVC - 핸들러 인터셉터에서 유저 인증 여부 및 권한 검사하기 [1] - GET /api/post/{postId} vs POST /api/post/{postId}](https://medium.com/taekwon-v/spring-mvc-%ED%95%B8%EB%93%A4%EB%9F%AC-%EC%9D%B8%ED%84%B0%EC%85%89%ED%84%B0%EC%97%90%EC%84%9C-%EC%9C%A0%EC%A0%80-%EC%9D%B8%EC%A6%9D-%EC%97%AC%EB%B6%80-%EB%B0%8F-%EA%B6%8C%ED%95%9C-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0-1-2e736844d46b)
+- [Spring MVC - 핸들러 인터셉터에서 유저 인증 여부 및 권한 검사하기 [2] - pick-git 팀 해결 아이디어 소개 (Java Annotation, Reflection, Proxy Pattern)](https://medium.com/taekwon-v/spring-mvc-%ED%95%B8%EB%93%A4%EB%9F%AC-%EC%9D%B8%ED%84%B0%EC%85%89%ED%84%B0%EC%97%90%EC%84%9C-%EC%9C%A0%EC%A0%80-%EC%9D%B8%EC%A6%9D-%EC%97%AC%EB%B6%80-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0-2-pick-git-%ED%8C%80-%ED%95%B4%EA%B2%B0-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EC%86%8C%EA%B0%9C-java-annotation-reflection-85d02cc20b32)
+- [Spring MVC - 핸들러 인터셉터에서 유저 인증 여부 및 권한 검사하기 [3] - pick-git 팀 소스 코드 분석하기](https://medium.com/taekwon-v/spring-mvc-%ED%95%B8%EB%93%A4%EB%9F%AC-%EC%9D%B8%ED%84%B0%EC%85%89%ED%84%B0%EC%97%90%EC%84%9C-%EC%9C%A0%EC%A0%80-%EC%9D%B8%EC%A6%9D-%EC%97%AC%EB%B6%80-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0-3-pick-git-%ED%8C%80-%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-7aad4ffc8297)
+
+</details>
