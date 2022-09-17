@@ -16,12 +16,14 @@
 
 ## Int'ly
 
-|로그인|프로필 및 활동 로그 조회|게시물 작성|
-|:-:|:-:|:-:|
+|로그인|프로필 및 활동 로그 조회|
+|:-:|:-:|
 |<img src=https://user-images.githubusercontent.com/70354365/189709972-17cc7a62-7e41-40cc-862f-996170513ad1.gif>|<img src=https://user-images.githubusercontent.com/70354365/189709970-8f4fa27e-2a8f-4d76-9c7e-405d77cfc5c7.gif>|<img src=https://user-images.githubusercontent.com/70354365/189709963-36f1d6a2-e0a5-4dea-8f85-ff80ca56775d.gif>|
-|<b>게시물 검색</b>|<b>댓글 및 답글 작성</b>|
-|<img src=https://user-images.githubusercontent.com/70354365/189709955-850c827c-0b46-4284-96bb-57784b50bfdb.gif>|<img src=https://user-images.githubusercontent.com/70354365/189709934-8fa20fee-17ab-46f0-b686-8c826764666a.gif>|
+|<b>게시물 작성</b>|<b>게시물 검색</b>|<b>댓글 및 답글 작성</b>|
+|:-:|:-:|:-:|
+|<img src=https://user-images.githubusercontent.com/70354365/189709963-36f1d6a2-e0a5-4dea-8f85-ff80ca56775d.gif>|<img src=https://user-images.githubusercontent.com/70354365/189709955-850c827c-0b46-4284-96bb-57784b50bfdb.gif>|<img src=https://user-images.githubusercontent.com/70354365/189709934-8fa20fee-17ab-46f0-b686-8c826764666a.gif>|
 |<b>인터뷰 템플릿 작성</b>|<b>인터뷰 템플릿 조회</b>|
+|:-:|:-:|
 |<img src=https://user-images.githubusercontent.com/70354365/190865993-8ae26afb-33bc-4695-ab26-ec58fd0b91f9.gif>|<img src=https://user-images.githubusercontent.com/70354365/190865986-61dcdd30-1781-4df9-bfa5-06d1d0ab84ae.gif>|
 
 <p align="center">
