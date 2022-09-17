@@ -51,7 +51,7 @@
 
 ![image](https://user-images.githubusercontent.com/70354365/189530262-1e8e9e29-2763-4960-87a2-5b60af130f20.png)
 
-
+> <b>Int'ly</b>의 <b>초기 인프라</b>에 대해 더 자세하게 알고싶다면, [Int'ly Infrasturcture](https://medium.com/taekwon-v/devops-zext-infrastructure-ci-cd-5b4106dde554/) 글을 참고해주세요.
 
 <br/>
 
@@ -71,12 +71,13 @@
 |<img src="https://avatars.githubusercontent.com/u/70354365?v=4" alt="Yun" width="100" height="100">|
 |[taekwon-dev](https://github.com/taekwon-dev)|
 
-### What I Did in this Project
+## What I Did in this Project
 
 <details>
 <summary style="font-size: medium">[Spring MVC] Handler Interceptor with Java Annotation, Reflection, and Proxy Pattern</summary>
+<br/>
 
-☼ 게시물 상세 조회 (GET - /api/posts/{postId})      
+☼ 게시물 상세 조회 (GET - /api/posts/{postId})           
 ☼ 게시물 수정 (POST - /api/posts/{postId})     
 ☼ 게시물 삭제 (DELETE - /api/posts/{postId})
 
@@ -87,3 +88,4 @@
 - [Spring MVC - 핸들러 인터셉터에서 유저 인증 여부 및 권한 검사하기 [3] - pick-git 팀 소스 코드 분석하기](https://medium.com/taekwon-v/spring-mvc-%ED%95%B8%EB%93%A4%EB%9F%AC-%EC%9D%B8%ED%84%B0%EC%85%89%ED%84%B0%EC%97%90%EC%84%9C-%EC%9C%A0%EC%A0%80-%EC%9D%B8%EC%A6%9D-%EC%97%AC%EB%B6%80-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0-3-pick-git-%ED%8C%80-%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-7aad4ffc8297)
 
 </details>
+<br/>
